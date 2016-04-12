@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 匡謬正俗
-#+DATE: 2016-04-12 14:30:35.011816
+#+DATE: 2016-04-12 14:30:35.253645
 #+PROPERTY: ID KR1j0009
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 3
 <pb:KR1j0009_WYG_003-1a>¶
 　　欽定四庫全書¶
@@ -56,7 +56,7 @@
 予夫人自有兮美子蓀何以兮愁苦歴觀詞賦予無余¶
 音若以書云予一人禮曰余一人便欲通之以古今字¶
 至如夏書云非台小子敢行稱亂豈得便言台余古今¶
-字耶𨚍詩云人涉卭否卭須我友豈得又言卭我古今¶
+字耶弼詩云人涉卭否卭須我友豈得又言卭我古今¶
 <pb:KR1j0009_WYG_003-3b>¶
 字乎¶
 ¶
